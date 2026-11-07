@@ -1,0 +1,7 @@
+[project]
+name = "hadith-py-rijal-jarh-tadil"
+version = "1.0.0"
+description = "Ilm Al-Rijal Narrator Reliability & Jarh wa Ta'dil Scorer (ميزان الجرح والتعديل وتوثيق طبقات الرواة)"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Mahmoud ElNemer", email = "sultanelnemer@gmail.com" }]
